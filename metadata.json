@@ -1,0 +1,5 @@
+{
+  "name": "ExamForge AI",
+  "description": "An advanced OCR and document structuring engine for academic question papers using Gemini 1.5 Pro.",
+  "requestFramePermissions": []
+}
